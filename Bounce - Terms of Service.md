@@ -1,6 +1,6 @@
 # Bounce: Terms of Service 
 
-**Effective date: 20th February 2018**
+#### Effective date: 20th February 2018
 
 Welcome to Bounce Technologies Limited (“Bounce”) terms of service. Please read on to learn the rules and restrictions that govern your use of our website(s), products, services and applications (the “Services”). If you have any questions, comments, concerns or suggestions of how we can improve these Terms or the Services, please email us at: ([hello@bouncebot.io](mailto:hello@bouncebot.io)) or write to: Bounce Technologies Limited, 149 Preston Road, Brighton, BN1 6AF.
 
