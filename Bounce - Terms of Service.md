@@ -1,4 +1,4 @@
-# Bounce: Terms of Service 
+# Terms of Service 
 
 #### Effective date: 1st March 2018
 
